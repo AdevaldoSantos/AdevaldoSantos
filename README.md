@@ -1,6 +1,7 @@
 ### Olá, Eu sou o Adevaldo Santos👋
 
-- 🌱 Estou estudando desenvolvimento web (HTML, CSS, JAVASCRIPT)
+- 🌱 Estou estudando desenvolvimento web (HTML, CSS, JAVASCRIPT);
+- Tenho curso de PHP, JavaScript, Git e GitHub;
 - 📫 Contate-me: adevaldosantosfilho@gmail.com
  
  <picture>
@@ -19,6 +20,7 @@
   <img align="center" alt="Ade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Ade-CSS" height="30" width="40" src="fotos.php?foto"> 
 </div>
 
 ##
