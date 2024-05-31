@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Adevaldo Santos👋
 
-- 🌱 Estou estudando desenvolvimento web (HTML, CSS, JAVASCRIPT, React.js);
+- 🌱 Estou estudando desenvolvimento web (HTML, CSS, JAVASCRIPT, REACT.JS);
 - Cursos realizados: JavaScript, Node.js, Git e GitHub;
 - 📫 Contate-me: adevaldosantosfilho@gmail.com
  
